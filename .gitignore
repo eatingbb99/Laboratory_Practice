@@ -1,0 +1,9 @@
+build_F429ZI/
+build_*/
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
